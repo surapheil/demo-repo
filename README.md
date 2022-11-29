@@ -1,2 +1,2 @@
 # head
-some description file for learning GitHub.
+some description file for learning GitHub!
